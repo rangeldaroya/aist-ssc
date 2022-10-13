@@ -1,0 +1,7 @@
+data/*
+*.tif
+output/*
+*.DS_STORE
+.DS_STORE
+*.csv
+*.pyc
